@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sales Prediction Using Machine Learning
 
 ## 📊 Project Overview
@@ -512,3 +513,6 @@ For issues or questions:
 **Version**: 1.0
 
 🚀 **Good luck with your machine learning journey!**
+=======
+# SALES-PREDICTION-USING-PYTHON
+>>>>>>> 09b25c5c8c9409647b2da39e15414e1dbd85eaa7
